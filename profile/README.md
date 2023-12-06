@@ -6,6 +6,13 @@ The project is mainly managed by Marcel Rudolf ([Novusvetus](https://github.com/
 * [ReindeerWeb.de](https://reindeer-web.de)
 * [Novusvetus.de](https://novusvetus.de)
 
+#### 💻 Repositories
+
+- [Mendelssohn-Repository/Mendelssohn](https://github.com/Mendelssohn-Repository/Mendelssohn) - The main repository. This is the base for all.
+- [Mendelssohn-Repository/Bitbucket](https://github.com/Mendelssohn-Repository/Bitbucket) - This connects Mendelssohn to Bitbucket.
+- [Mendelssohn-Repository/Github](https://github.com/Mendelssohn-Repository/Github) - This connects Mendelssohn to Github.
+- [Mendelssohn-Repository/Gitlab](https://github.com/Mendelssohn-Repository/Gitlab) - This connects Mendelssohn to Gitlab.
+
 #### 💬 Feedback
 I look forward to hearing from you if you use this project. Feel free to report bugs or feature requests.
 
