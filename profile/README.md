@@ -1,12 +1,14 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
+Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
+The project is mainly managed by Marcel Rudolf ([Novusvetus](https://github.com/Novusvetus)) and [ReindeerWeb](https://github.com/ReindeerWeb).
 
-**Here are some ideas to get you started:**
+* [ReindeerWeb](https://reindeer-web.de) (My own company)
+* [Novusvetus](https://novusvetus.de) (My personal page)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### 💬 Feedback
+I look forward to hearing from you if you use this project. Feel free to report bugs or feature requests.
+
+#### 📫 How to reach me
+
+- Mail: [development@novusvetus.de](mailto:development@novusvetus.de)
