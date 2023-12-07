@@ -13,6 +13,10 @@ The project is mainly managed by Marcel Rudolf ([Novusvetus](https://github.com/
 - [Mendelssohn-Repository/Github](https://github.com/Mendelssohn-Repository/Github) - This connects Mendelssohn to Github.
 - [Mendelssohn-Repository/Gitlab](https://github.com/Mendelssohn-Repository/Gitlab) - This connects Mendelssohn to Gitlab.
 
+#### 💻 Why is the project called Mendelssohn?
+
+Jakob Ludwig Felix Mendelssohn Bartholdy, commonly known as Felix Mendelssohn, was a German composer (Do you get it?) of the Romantic era. Born on February 3, 1809, in Hamburg, he passed away on November 4, 1847, in Leipzig. Mendelssohn was a musical prodigy who composed in various genres, including the famous "A Midsummer Night's Dream" Overture. Mendelssohn's works continue to be significant contributions to classical music.
+
 #### 💬 Feedback
 I look forward to hearing from you if you use this project. Feel free to report bugs or feature requests.
 
